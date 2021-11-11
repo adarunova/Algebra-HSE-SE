@@ -13,3 +13,7 @@
 
 ## Автор: Ларсик
 ***Контакты: https://vk.com/clublarsi***
+
+VK: https://vk.com/asyairita
+
+Telegram: https://t.me/larsic
