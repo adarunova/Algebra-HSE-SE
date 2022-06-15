@@ -23,6 +23,12 @@
 
 [Определения и доказательства](https://github.com/adarunova/Algebra-HSE-SE/blob/main/Colloquium/%D0%9A%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%20%D0%BF%D0%BE%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5.pdf)
 
+
+### Экзамен №2
+
+[Разбор типовых задач](https://github.com/adarunova/Algebra-HSE-SE/blob/main/Exam-2/%D0%90%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%204.pdf)
+
+
 ## Контакты
 
 VK: https://vk.com/asyairita
